@@ -1,7 +1,7 @@
 # Advaced C++ Class
-2022 Summer term Advanced C++ Programming class
-
 2022년 여름계절학기 고급C++프로그래밍 수업 과제물
+
+2022 Summer term Advanced C++ Programming Class
 
 ## 🛠️사용 기술 | Technologies Used
 - C++
